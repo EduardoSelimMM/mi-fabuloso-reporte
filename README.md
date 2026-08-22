@@ -8,8 +8,10 @@ Funciona como hemos escrito otros archivos en RMarkdown o en Quarto
 
 ## Agregar subsecciones
 
-Mi fabulosa subsección
+Mi fabulosa parte
 
 ### O tmb subsubsecciones
 
 Mi mágica subsubsección
+
+Estoy agregando más cosas. Puedo agregar **negritas** o *cursivas*. con el uso de los asteriquitos

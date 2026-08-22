@@ -1,1 +1,15 @@
-# mi-fabuloso-reporte
+# Este es un archivo de texto basado en Markdown
+
+Funciona como hemos escrito otros archivos en RMarkdown o en Quarto
+
++ Podemos usar bullets
++ Más bullets
++ Quizá más bullets
+
+## Agregar subsecciones
+
+Mi fabulosa subsección
+
+### O tmb subsubsecciones
+
+Mi mágica subsubsección
